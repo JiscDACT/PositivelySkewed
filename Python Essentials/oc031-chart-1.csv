@@ -1,0 +1,17 @@
+﻿﻿Title:,"Chart 1 Income of HE providers by location, category and academic year (£ millions)"
+Subtitle:,"Academic years 2014/15 to 2019/20"
+Reference ID:,OC031 Chart 1
+Data source:,HESA
+Data source link:,https://www.hesa.ac.uk/data-and-analysis/finances/chart-1
+Licence:,Creative Commons Attribution 4.0 International Licence
+Date:,2021
+Filters:,Country,UK 
+
+
+"Year","Tuition fees and education contracts","Funding body grants","Research grants and contracts","Other income","Investment income","Donations and endowments"
+"2014/15","15,541","5,345","5,968","5,902","230","532"
+"2015/16","16,811","5,167","5,886","6,045","261","578"
+"2016/17","17,757","5,105","5,916","6,165","254","585"
+"2017/18","19,018","5,124","6,224","7,363","256","737"
+"2018/19","20,300","5,326","6,577","7,964","401","927"
+"2019/20","21,546","5,499","6,293","7,285","373","931"
