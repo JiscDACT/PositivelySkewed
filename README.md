@@ -7,7 +7,7 @@ Folders containing the workbooks will be added for the following topics:
 
 * Python essentials: [✅Available]
 * Python Visualizations: [❌tbc]
-* Stats 101: [❌tbc]
+* Stats 101: [✅Available]
 * Stats 102: [❌tbc]
 * Stats 103: [❌tbc]
 * Advanced Python coding: [❌tbc]
