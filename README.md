@@ -6,10 +6,10 @@ The notebooks have been designed to introduce some programming and statistical c
 Folders containing the workbooks will be added for the following topics:
 
 * Python essentials: [✅Available]
-* Python Visualizations: [❌tbc]
 * Stats 101: [✅Available]
 * Stats 102: [❌tbc]
 * Stats 103: [❌tbc]
+* Python Visualizations: [❌tbc]
 * Advanced Python coding: [❌tbc]
 
 # Getting Started [Python Essentials](https://github.com/JiscDACT/PositivelySkewed/tree/main/Python%20Essentials)
@@ -27,6 +27,4 @@ Folders containing the workbooks will be added for the following topics:
 5. Part of the workbook will require you upload data which is stored in the [Python Essentials](https://github.com/JiscDACT/PositivelySkewed/tree/main/Python%20Essentials) folder or you can follow the link in the Google Colab notebook to download a local copy.
 
 
-# Python Visualizations
 
-tbc
