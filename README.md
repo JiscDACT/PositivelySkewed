@@ -7,9 +7,9 @@ Folders containing the workbooks will be added for the following topics:
 
 * Python essentials: [✅Available]
 * Stats 101: [✅Available]
-* Stats 102: [❌tbc]
-* Stats 103: [❌tbc]
-* Python Visualizations: [❌tbc]
+* Stats 102: [✅Available]
+* Stats 103: [❌Coming in the next couple of weeks]
+* Python Visualizations: [❌Coming in the next couple of weeks]
 * Advanced Python coding: [❌tbc]
 
 # Getting Started [Python Essentials](https://github.com/JiscDACT/PositivelySkewed/tree/main/Python%20Essentials)
